@@ -28,7 +28,7 @@ export default function App() {
         },
     });
 
-    const [githubUser, setGithubUser] = useState("melikechan");
+    const [githubUser, setGithubUser] = useState("sefakurtipek");
 
     const fetchGithubRepos = async () => {
         const response = await fetch(
@@ -98,12 +98,12 @@ export default function App() {
             <SectionLayout id="contact" header={"Contact"}>
                 <p className="text-center">You can contact me from</p>
                 <Contact
-                    link={"mailto:melikechan@tuta.io"}
-                    text={"melikechan[at]tuta.io"}
+                    link={"mailto:sefakurtipek@tuta.io"}
+                    text={"sefakurtipek[at]tuta.io"}
                     icon={<Tutanota span="Tutanota" />}
                 />
                 <Contact
-                    link={"https://linkedin.com/in/melikechan"}
+                    link={"https://linkedin.com/in/sefakurtipek"}
                     text={"Melike Vurucu"}
                     icon={<Linkedin span="Linkedin" />}
                 />

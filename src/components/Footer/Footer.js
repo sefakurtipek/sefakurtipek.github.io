@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <>
             <footer className="flex justify-center items-center bg-gray-100 h-16">
-                <p>melikechan - {year}</p>
+                <p>sefakurtipek - {year}</p>
             </footer>
         </>
     );

@@ -1,4 +1,4 @@
-# melikechan's personal website
+# sefakurtipek's personal website
 
 This repository is contains the source code of my website. Even though it has still **a lot of work**.
 

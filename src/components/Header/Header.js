@@ -1,5 +1,5 @@
 import React from "react";
-import melikechanLogo from "../../assets/img/melikechan-logo.svg";
+import melikechanLogo from "../../assets/img/sefakurtipek-logo.svg";
 import MediaQuery from "react-responsive";
 import HeaderButton from "../Buttons/HeaderButtons";
 
@@ -10,7 +10,7 @@ const Header = () => {
                 <img
                     className="w-1/3 md:w-1/12"
                     src={melikechanLogo}
-                    alt="melikechan-logo"
+                    alt="sefakurtipek-logo"
                 />
                 <MediaQuery minDeviceWidth={768}>
                     <nav className="flex flex-row space-x-4">

@@ -18,7 +18,7 @@ const Hero = () => {
                         <span className="text-4xl font-bold">
                             Melike Vurucu
                         </span>
-                        <span className="text-2xl font-bold">melikechan</span>
+                        <span className="text-2xl font-bold">sefakurtipek</span>
                     </div>
                     <hr />
                     <p className="text-center text-gray-50">
@@ -28,19 +28,19 @@ const Hero = () => {
                     <div className="flex flex-row justify-center space-x-4 py-2">
                         <SocialButton
                             icon={<Github span="Github" />}
-                            link="https://github.com/melikechan"
+                            link="https://github.com/sefakurtipek"
                         />
                         <SocialButton
                             icon={<Gitlab span="Gitlab" />}
-                            link="https://gitlab.com/melikechan"
+                            link="https://gitlab.com/sefakurtipek"
                         />
                         <SocialButton
                             icon={<Codeforces span="Codeforces" />}
-                            link="https://codeforces.com/profile/melikechan"
+                            link="https://codeforces.com/profile/sefakurtipek"
                         />
                         <SocialButton
                             icon={<Kaggle span="Kaggle" />}
-                            link="https://kaggle.com/melikechan"
+                            link="https://kaggle.com/sefakurtipek"
                         />
                     </div>
                 </div>
